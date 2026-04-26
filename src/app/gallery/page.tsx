@@ -96,13 +96,6 @@ const galleryItems = [
     alt: "Long pink stiletto acrylic nails with aurora chrome effect and rhinestone accents by Nails by Ken",
   },
   {
-    id: 13,
-    category: "Acrylic",
-    label: "Classic French Almond",
-    src: "/gallery/acrylic-french-tip.jpg",
-    alt: "Almond shaped acrylic nails with classic white French tips by Nails by Ken",
-  },
-  {
     id: 14,
     category: "Acrylic",
     label: "Soft Pink French Tip",
